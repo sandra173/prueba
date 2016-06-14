@@ -10,8 +10,8 @@
 <?php 
 echo "A CONTINUACION SE MUESTRA EL RESULTADO DE SELECCIONAR TODOS LOS REGISTROS";
 $host="localhost";
-$usuario="root";
-$password="root";
+$usuario="adminM8USkvC";
+$password="sGNE8g83ztdl";
 $conectar=mysql_connect($host, $usuario, $password);
 mysql_select_db("universidad",$conectar);
 
