@@ -8,8 +8,8 @@
 
 <?php
 $host="localhost";
-$usuario="root";
-$password="root";
+$usuario="adminSH6R14I";
+$password="TBil334pt75h";
 $conectar=mysql_connect($host, $usuario, $password);
 mysql_select_db("universidad",$conectar);
 
